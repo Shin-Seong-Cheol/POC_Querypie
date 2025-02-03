@@ -1,2 +1,3 @@
-# POC_Querypie
-POC_Querypie
+update C##IMTEST.IAMTEST
+SET NAME = 'Oh'
+Where ID = 1;
