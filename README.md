@@ -1,3 +1,1 @@
-update C##IMTEST.IAMTEST
-SET NAME = 'Oh'
-Where ID = 1;
+select * from C##IMTEST.IAMTEST
