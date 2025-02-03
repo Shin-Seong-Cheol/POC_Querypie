@@ -1,0 +1,3 @@
+Update C##IMTEST.IAMTEST
+SET NAME = 'LEE'
+Where ID = 1;
